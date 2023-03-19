@@ -1,0 +1,25 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "groupComposition": {
+      "home": {
+        "title": "Group Compositions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Group Composition",
+        "createOrEditLabel": "Create or edit a Group Composition",
+        "notFound": "No Group Compositions found"
+      },
+      "created": "A new Group Composition is created with identifier {{ param }}",
+      "updated": "A Group Composition is updated with identifier {{ param }}",
+      "deleted": "A Group Composition is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Group Composition {{ id }}?"
+      },
+      "detail": {
+        "title": "Group Composition"
+      },
+      "id": "ID",
+      "group": "Group",
+      "account": "Account"
+    }
+  }
+}

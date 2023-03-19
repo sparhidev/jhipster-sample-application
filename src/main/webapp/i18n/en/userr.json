@@ -1,0 +1,25 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "userr": {
+      "home": {
+        "title": "Userrs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Userr",
+        "createOrEditLabel": "Create or edit a Userr",
+        "notFound": "No Userrs found"
+      },
+      "created": "A new Userr is created with identifier {{ param }}",
+      "updated": "A Userr is updated with identifier {{ param }}",
+      "deleted": "A Userr is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Userr {{ id }}?"
+      },
+      "detail": {
+        "title": "Userr"
+      },
+      "id": "ID",
+      "name": "Name",
+      "customer": "Customer"
+    }
+  }
+}

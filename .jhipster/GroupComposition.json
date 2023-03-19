@@ -1,0 +1,26 @@
+{
+  "applications": "*",
+  "changelogDate": "20230319030637",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "group_composition",
+  "fields": [
+    {
+      "fieldName": "group",
+      "fieldType": "Long",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "account",
+      "fieldType": "Long",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "GroupComposition",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
